@@ -1,6 +1,4 @@
-Certainly! Here is the `README.md` file for your project named InsightInk.
 
----
 
 # InsightInk
 
